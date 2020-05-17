@@ -1,0 +1,53 @@
+body{
+  margin-top: 110px;
+}
+
+
+.navbar{
+   box-shadow:2px 2px 5px #3292a6;
+   background: #fff;
+   opacity: 0.9;
+}
+.nav-item{
+  font-size:20px;
+}
+.nav-link {
+  color: #3292a6;
+}
+.nav-link:hover{
+  color:#252525;
+}
+.d-inline{
+  color:#3292a6;
+}
+#showcase{
+  position: relative;
+  background-image: url('../img/home.jpg');
+  min-height: 650px;
+  color: white ;
+}
+.primary-overlay{
+  background:rgba(50,146,156,0.7) ;
+  min-height: 650px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width:100%;
+}
+#book {
+  padding-top: 200px ;
+  padding-left: 100px;
+} 
+#s-btn{
+  background-color: #3292a6;
+}
+
+form{
+  width: 100%;
+}
+.info-book {
+  font-size: ;
+}
+
+
